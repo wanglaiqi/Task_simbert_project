@@ -1,0 +1,2 @@
+lcqmc_data_path: "/opt/wlq/datasets/MatchData/lcqmc/"
+simbert_model_path: "/opt/wlq/models/bert_model/chinese_simbert_L-12_H-768_A-12/"
